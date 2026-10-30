@@ -22,7 +22,7 @@
 
 I'm **MD Kowsar Hossain**, Senior Web Developer at **[Kickass Online](https://kickassonline.com/)**, a London web agency, where I lead development and the technical side of client projects.
 
-I build the sites — and I keep them alive. Hundreds of websites built over my career, from first build to deployment, hosting, security and the day-to-day care of a whole portfolio of client websites. These days I'm focused on **agentic, AI-ready websites** that ChatGPT, Google AI and Perplexity can read, understand and recommend.
+I build the sites and I keep them alive. Hundreds of websites built over my career, from first build to deployment, hosting, security and the day-to-day care of a whole portfolio of client websites. These days I'm focused on **agentic, AI-ready websites** that ChatGPT, Google AI and Perplexity can read, understand and recommend.
 
 <div align="center">
 
@@ -36,40 +36,40 @@ I build the sites — and I keep them alive. Hundreds of websites built over my 
 
 ## 🤖 AI & agentic websites
 
-> Websites aren't just for humans any more — AI agents are reading them too. I build sites that work for both.
+> Websites aren't just for humans any more. AI agents are reading them too. I build sites that work for both.
 
-- **Agentic website builds & retrofits** — structuring sites so AI assistants can quote, cite and recommend the business
-- **`agent-card.json`** — machine-readable endpoints at `/.well-known/agent-card.json` for AI agent discovery, live on multiple client sites
+- **Agentic website builds & retrofits**: structuring sites so AI assistants can quote, cite and recommend the business
+- **`agent-card.json`**: machine-readable endpoints at `/.well-known/agent-card.json` for AI agent discovery, live on multiple client sites
 - **`llms.txt`** and dedicated **"For AI agents" pages** (`/agents/`, `/ai/`)
-- **Structured data** — JSON-LD schema (LocalBusiness, Service, FAQPage, VideoObject) so search engines and AI get the facts right
-- **AI-assisted development** — working with AI coding agents every day to debug, refactor and ship faster
-- AI add-ons — chatbots, voice agents and **n8n** automations
+- **Structured data**: JSON-LD schema (LocalBusiness, Service, FAQPage, VideoObject) so search engines and AI get the facts right
+- **AI-assisted development**: working with AI coding agents every day to debug, refactor and ship faster
+- AI add-ons: chatbots, voice agents and **n8n** automations
 
 ## 🛡️ Website maintenance at scale
 
-> The part most people never see — and the part clients rely on most.
+> The part most people never see, and the part clients rely on most.
 
 - A large portfolio of **client websites** maintained and kept online
 - Core, theme and plugin updates without breaking live sites
 - **Malware clean-ups**, hardening and security setup
 - Downtime troubleshooting, backups and restores from staging
-- Caching and performance tuning — WP Rocket, Hummingbird, Cloudflare
-- Fast fixes when something breaks — usually before the client notices
+- Caching and performance tuning: WP Rocket, Hummingbird, Cloudflare
+- Fast fixes when something breaks, usually before the client notices
 
 ## 🛠️ Build & development
 
-- **WordPress & WooCommerce** — custom builds, online shops, product imports and custom features
-- Comfortable with **any theme or page builder** — Oxygen, Elementor, Divi, Bricks, Avada, Gutenberg and custom themes
+- **WordPress & WooCommerce**: custom builds, online shops, product imports and custom features
+- Comfortable with **any theme or page builder**: Oxygen, Elementor, Divi, Bricks, Avada, Gutenberg and custom themes
 - **Astro** and hand-coded static HTML / CSS / JS sites
 - **Custom PHP plugins**, REST API endpoints and hooks that survive theme and core updates
 - **ACF**-powered course and content sites · multilingual sites with TranslatePress
 - Scheduled **WooCommerce CSV feed imports** with custom pre-processing
-- Interactive UI — carousels, scroll-on-hover previews, animated sections
+- Interactive UI: carousels, scroll-on-hover previews, animated sections
 
 ## ⚡ Performance & SEO
 
 - Speed, **Core Web Vitals** and plugin clean-ups
-- Technical SEO — metadata, schema, sitemaps, robots.txt, 301 redirect mapping for relaunches
+- Technical SEO: metadata, schema, sitemaps, robots.txt, 301 redirect mapping for relaunches
 - Google Search Console and GA4 setup and fixes
 - Accessible builds to **WCAG 2.2 AA**
 
@@ -108,11 +108,11 @@ I build the sites — and I keep them alive. Hundreds of websites built over my 
 
 ## 🚀 Side projects
 
-- **[PureTextTools](https://puretexttools.com/)** — free online text utility tools, built and run by me
+- **[PureTextTools](https://puretexttools.com/)**: free online text utility tools, built and run by me
 
 ## 💬 Ask me about
 
-- Making a website **AI-ready** — agent cards, llms.txt, schema
+- Making a website **AI-ready**: agent cards, llms.txt, schema
 - Looking after lots of WordPress sites without things breaking
 - WordPress and WooCommerce builds
 - Speed, Core Web Vitals and plugin clean-ups
