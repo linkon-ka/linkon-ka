@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://kickassonline.com/team/kowsar-hossain/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFBB00&center=true&vCenter=true&width=650&lines=Building+AI-ready+agentic+websites;Keeping+27%2B+client+sites+fast+and+online;WordPress+%7C+WooCommerce+%7C+Oxygen+%7C+Astro;300%2B+websites+built+in+8+years" alt="Building AI-ready websites" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFBB00&center=true&vCenter=true&width=650&lines=Building+AI-ready+agentic+websites;Keeping+client+sites+fast%2C+secure+and+online;Speed+audits+%7C+Clean-ups+%7C+Malware+removal;Builds+%7C+Maintenance+%7C+SEO+%7C+Hosting" alt="Building AI-ready websites" />
 </a>
 
 <br/>
@@ -22,13 +22,13 @@
 
 I'm **MD Kowsar Hossain**, Senior Web Developer at **[Kickass Online](https://kickassonline.com/)**, a London web agency, and its **sole technical operator**.
 
-I build the sites — and I keep them alive. **300+ websites** built over my career. From first build to deployment, hosting, security and the day-to-day care of a whole portfolio of client websites. These days I'm focused on **agentic, AI-ready websites** that ChatGPT, Google AI and Perplexity can read, understand and recommend.
+I build the sites — and I keep them alive. Hundreds of websites built over my career, from first build to deployment, hosting, security and the day-to-day care of a whole portfolio of client websites. These days I'm focused on **agentic, AI-ready websites** that ChatGPT, Google AI and Perplexity can read, understand and recommend.
 
 <div align="center">
 
-| 🚀 **300+ websites** | 🗓️ **8+ years** | 🌐 **27+ sites** | 🏢 **6+ years** | 🤖 **AI-ready** |
+| 🚀 **Build** | 🛡️ **Maintain** | ⚡ **Speed up** | 🧹 **Clean up** | 🤖 **AI-ready** |
 |:---:|:---:|:---:|:---:|:---:|
-| built in my career | building for the web | maintained & kept online | at Kickass Online | agentic website builds |
+| from idea to launch | updated, secure & online | Core Web Vitals & audits | hacked & bloated sites fixed | agentic websites |
 
 </div>
 
@@ -49,7 +49,7 @@ I build the sites — and I keep them alive. **300+ websites** built over my car
 
 > The part most people never see — and the part clients rely on most.
 
-- **27+ client websites** maintained and kept online, single-handedly
+- A large portfolio of **client websites** maintained and kept online, single-handedly
 - Core, theme and plugin updates without breaking live sites
 - **Malware clean-ups**, hardening and security setup
 - Downtime troubleshooting, backups and restores from staging
