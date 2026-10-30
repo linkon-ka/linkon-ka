@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About me
 
-I'm **MD Kowsar Hossain**, Senior Web Developer at **[Kickass Online](https://kickassonline.com/)**, a London web agency, and its **sole technical operator**.
+I'm **MD Kowsar Hossain**, Senior Web Developer at **[Kickass Online](https://kickassonline.com/)**, a London web agency, where I lead development and the technical side of client projects.
 
 I build the sites — and I keep them alive. Hundreds of websites built over my career, from first build to deployment, hosting, security and the day-to-day care of a whole portfolio of client websites. These days I'm focused on **agentic, AI-ready websites** that ChatGPT, Google AI and Perplexity can read, understand and recommend.
 
@@ -49,7 +49,7 @@ I build the sites — and I keep them alive. Hundreds of websites built over my 
 
 > The part most people never see — and the part clients rely on most.
 
-- A large portfolio of **client websites** maintained and kept online, single-handedly
+- A large portfolio of **client websites** maintained and kept online
 - Core, theme and plugin updates without breaking live sites
 - **Malware clean-ups**, hardening and security setup
 - Downtime troubleshooting, backups and restores from staging
@@ -59,7 +59,7 @@ I build the sites — and I keep them alive. Hundreds of websites built over my 
 ## 🛠️ Build & development
 
 - **WordPress & WooCommerce** — custom builds, online shops, product imports and custom features
-- **Oxygen Builder** specialist, plus Elementor and Avada
+- Comfortable with **any theme or page builder** — Oxygen, Elementor, Divi, Bricks, Avada, Gutenberg and custom themes
 - **Astro** and hand-coded static HTML / CSS / JS sites
 - **Custom PHP plugins**, REST API endpoints and hooks that survive theme and core updates
 - **ACF**-powered course and content sites · multilingual sites with TranslatePress
@@ -94,7 +94,6 @@ I build the sites — and I keep them alive. Hundreds of websites built over my 
 
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Oxygen Builder](https://img.shields.io/badge/Oxygen_Builder-000000?style=for-the-badge)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![JSON-LD](https://img.shields.io/badge/JSON--LD-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
