@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBB00,100:101010&height=220&section=header&text=Hi,%20I'm%20Kowsar%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Web%20Developer%20·%20AI-ready%20Websites%20·%20Dhaka,%20Bangladesh&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBB00,100:101010&height=220&section=header&text=Hi,%20I%27m%20Kowsar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Web%20Developer%20%7C%20AI-ready%20Websites%20%7C%20Dhaka,%20Bangladesh&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <div align="center">
 
 <a href="https://kickassonline.com/team/kowsar-hossain/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFBB00&center=true&vCenter=true&width=650&lines=Building+AI-ready%2C+agentic+websites+🤖;Keeping+27%2B+client+sites+fast%2C+safe+%26+online+🛡️;WordPress+·+WooCommerce+·+Oxygen+·+Astro+⚡;8+years+of+shipping+websites+that+mean+business+🚀" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFBB00&center=true&vCenter=true&width=650&lines=Building+AI-ready+agentic+websites;Keeping+27%2B+client+sites+fast+and+online;WordPress+%7C+WooCommerce+%7C+Oxygen+%7C+Astro;300%2B+websites+built+in+8+years" alt="Building AI-ready websites" />
 </a>
 
 <br/>
@@ -22,13 +22,13 @@
 
 I'm **MD Kowsar Hossain**, Senior Web Developer at **[Kickass Online](https://kickassonline.com/)**, a London web agency, and its **sole technical operator**.
 
-I build the sites — and I keep them alive. From first build to deployment, hosting, security and the day-to-day care of a whole portfolio of client websites. These days I'm focused on **agentic, AI-ready websites** that ChatGPT, Google AI and Perplexity can read, understand and recommend.
+I build the sites — and I keep them alive. **300+ websites** built over my career. From first build to deployment, hosting, security and the day-to-day care of a whole portfolio of client websites. These days I'm focused on **agentic, AI-ready websites** that ChatGPT, Google AI and Perplexity can read, understand and recommend.
 
 <div align="center">
 
-| 🗓️ **8+ years** | 🌐 **27+ sites** | 🏢 **6+ years** | 🤖 **AI-ready** |
-|:---:|:---:|:---:|:---:|
-| building for the web | maintained & kept online | at Kickass Online | agentic website builds |
+| 🚀 **300+ websites** | 🗓️ **8+ years** | 🌐 **27+ sites** | 🏢 **6+ years** | 🤖 **AI-ready** |
+|:---:|:---:|:---:|:---:|:---:|
+| built in my career | building for the web | maintained & kept online | at Kickass Online | agentic website builds |
 
 </div>
 
@@ -75,7 +75,7 @@ I build the sites — and I keep them alive. From first build to deployment, hos
 
 ## 🖥️ Servers & hosting
 
-- **Plesk**, **WHM/cPanel** (including my own reseller server) and WPMU DEV
+- **Plesk**, **WHM/cPanel** and WPMU DEV
 - DNS management and **Cloudflare** migrations
 - Staging → live migrations and site restores
 - Taking over sites someone else built and getting them back in shape
@@ -126,12 +126,7 @@ I build the sites — and I keep them alive. From first build to deployment, hos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=linkon-ka&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=101010&title_color=FFBB00&icon_color=FFBB00" height="165" />
 <img src="https://streak-stats.demolab.com?user=linkon-ka&theme=tokyonight&hide_border=true&background=101010&ring=FFBB00&fire=FFBB00&currStreakLabel=FFBB00" height="165" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=linkon-ka&theme=tokyo-night&hide_border=true&bg_color=101010&color=FFBB00&line=FFBB00&point=ffffff" width="100%" />
 
 </div>
 
