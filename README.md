@@ -1,42 +1,148 @@
-# Hi, I'm Linkon 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBB00,100:101010&height=220&section=header&text=Hi,%20I'm%20Kowsar%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Web%20Developer%20·%20AI-ready%20Websites%20·%20Dhaka,%20Bangladesh&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-**MD Kowsar Hossain** · Senior Web Developer at [Kickass Online](https://kickassonline.com/) · Dhaka, Bangladesh
+<div align="center">
 
-I build the sites. Eight years in WordPress, WooCommerce and Oxygen Builder — and the person who keeps every client site updated, fast and online.
+<a href="https://kickassonline.com/team/kowsar-hossain/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFBB00&center=true&vCenter=true&width=650&lines=Building+AI-ready%2C+agentic+websites+🤖;Keeping+27%2B+client+sites+fast%2C+safe+%26+online+🛡️;WordPress+·+WooCommerce+·+Oxygen+·+Astro+⚡;8+years+of+shipping+websites+that+mean+business+🚀" alt="Typing intro" />
+</a>
 
-## 🛠️ What I do
+<br/>
 
-- **Build and deployment** — WordPress, WooCommerce and custom web builds
-- **Performance** — speed, Core Web Vitals and plugin clean-ups
-- **Site rescues** — taking over sites someone else built and getting them back in shape
-- **Maintenance** — keeping a portfolio of client sites secure, updated and online
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linkon@kickassonline.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801715389881)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kowsar-hossain-a9b54a304/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/linkonhossain007)
+[![Kickass Online](https://img.shields.io/badge/Kickass_Online-FFBB00?style=for-the-badge&logoColor=black)](https://kickassonline.com/team/kowsar-hossain/)
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+I'm **MD Kowsar Hossain**, Senior Web Developer at **[Kickass Online](https://kickassonline.com/)**, a London web agency, and its **sole technical operator**.
+
+I build the sites — and I keep them alive. From first build to deployment, hosting, security and the day-to-day care of a whole portfolio of client websites. These days I'm focused on **agentic, AI-ready websites** that ChatGPT, Google AI and Perplexity can read, understand and recommend.
+
+<div align="center">
+
+| 🗓️ **8+ years** | 🌐 **27+ sites** | 🏢 **6+ years** | 🤖 **AI-ready** |
+|:---:|:---:|:---:|:---:|
+| building for the web | maintained & kept online | at Kickass Online | agentic website builds |
+
+</div>
+
+---
+
+## 🤖 AI & agentic websites
+
+> Websites aren't just for humans any more — AI agents are reading them too. I build sites that work for both.
+
+- **Agentic website builds & retrofits** — structuring sites so AI assistants can quote, cite and recommend the business
+- **`agent-card.json`** — machine-readable endpoints at `/.well-known/agent-card.json` for AI agent discovery, live on multiple client sites
+- **`llms.txt`** and dedicated **"For AI agents" pages** (`/agents/`, `/ai/`)
+- **Structured data** — JSON-LD schema (LocalBusiness, Service, FAQPage, VideoObject) so search engines and AI get the facts right
+- **AI-assisted development** — working with AI coding agents every day to debug, refactor and ship faster
+- AI add-ons — chatbots, voice agents and **n8n** automations
+
+## 🛡️ Website maintenance at scale
+
+> The part most people never see — and the part clients rely on most.
+
+- **27+ client websites** maintained and kept online, single-handedly
+- Core, theme and plugin updates without breaking live sites
+- **Malware clean-ups**, hardening and security setup
+- Downtime troubleshooting, backups and restores from staging
+- Caching and performance tuning — WP Rocket, Hummingbird, Cloudflare
+- Fast fixes when something breaks — usually before the client notices
+
+## 🛠️ Build & development
+
+- **WordPress & WooCommerce** — custom builds, online shops, product imports and custom features
+- **Oxygen Builder** specialist, plus Elementor and Avada
+- **Astro** and hand-coded static HTML / CSS / JS sites
+- **Custom PHP plugins**, REST API endpoints and hooks that survive theme and core updates
+- **ACF**-powered course and content sites · multilingual sites with TranslatePress
+- Scheduled **WooCommerce CSV feed imports** with custom pre-processing
+- Interactive UI — carousels, scroll-on-hover previews, animated sections
+
+## ⚡ Performance & SEO
+
+- Speed, **Core Web Vitals** and plugin clean-ups
+- Technical SEO — metadata, schema, sitemaps, robots.txt, 301 redirect mapping for relaunches
+- Google Search Console and GA4 setup and fixes
+- Accessible builds to **WCAG 2.2 AA**
+
+## 🖥️ Servers & hosting
+
+- **Plesk**, **WHM/cPanel** (including my own reseller server) and WPMU DEV
+- DNS management and **Cloudflare** migrations
+- Staging → live migrations and site restores
+- Taking over sites someone else built and getting them back in shape
+
+---
+
+## 🧰 Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=wordpress,php,js,html,css,astro,mysql&perline=7" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cloudflare,linux,git,github,vscode,nodejs,bash&perline=7" />
+
+<br/><br/>
+
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Oxygen Builder](https://img.shields.io/badge/Oxygen_Builder-000000?style=for-the-badge)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![JSON-LD](https://img.shields.io/badge/JSON--LD-000000?style=for-the-badge&logo=json&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Side projects
+
+- **[PureTextTools](https://puretexttools.com/)** — free online text utility tools, built and run by me
 
 ## 💬 Ask me about
 
+- Making a website **AI-ready** — agent cards, llms.txt, schema
+- Looking after lots of WordPress sites without things breaking
 - WordPress and WooCommerce builds
 - Speed, Core Web Vitals and plugin clean-ups
+- Cleaning up a hacked site
 - Taking over a site someone else built
 
-## 🧰 Stack
+---
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Oxygen Builder](https://img.shields.io/badge/Oxygen_Builder-000000?style=flat)
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=linkon-ka&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=101010&title_color=FFBB00&icon_color=FFBB00" height="165" />
+<img src="https://streak-stats.demolab.com?user=linkon-ka&theme=tokyonight&hide_border=true&background=101010&ring=FFBB00&fire=FFBB00&currStreakLabel=FFBB00" height="165" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=linkon-ka&theme=tokyo-night&hide_border=true&bg_color=101010&color=FFBB00&line=FFBB00&point=ffffff" width="100%" />
+
+</div>
+
+---
 
 ## 📫 Get in touch
 
-[![Email](https://img.shields.io/badge/Email-linkon@kickassonline.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:linkon@kickassonline.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+8801715389881-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801715389881)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Kowsar_Hossain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kowsar-hossain-a9b54a304/)
-[![Facebook](https://img.shields.io/badge/Facebook-linkonhossain007-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/linkonhossain007)
-[![Team profile](https://img.shields.io/badge/Kickass_Online-Team_profile-101010?style=flat)](https://kickassonline.com/team/kowsar-hossain/)
+- 📧 Email: [linkon@kickassonline.com](mailto:linkon@kickassonline.com)
+- 💬 WhatsApp: [+880 1715 389881](https://wa.me/8801715389881)
+- 💼 LinkedIn: [md-kowsar-hossain](https://www.linkedin.com/in/md-kowsar-hossain-a9b54a304/)
+- 👍 Facebook: [linkonhossain007](https://www.facebook.com/linkonhossain007)
+- 🏢 Team profile: [kickassonline.com/team/kowsar-hossain](https://kickassonline.com/team/kowsar-hossain/)
 
-- Email: [linkon@kickassonline.com](mailto:linkon@kickassonline.com)
-- WhatsApp: [+880 1715 389881](https://wa.me/8801715389881)
-- LinkedIn: [md-kowsar-hossain](https://www.linkedin.com/in/md-kowsar-hossain-a9b54a304/)
-- Facebook: [linkonhossain007](https://www.facebook.com/linkonhossain007)
-- Team profile: [kickassonline.com/team/kowsar-hossain](https://kickassonline.com/team/kowsar-hossain/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,100:FFBB00&height=120&section=footer" width="100%" />
